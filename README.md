@@ -2,7 +2,7 @@
  
 ![TestCafe Integration With LambdaTest](https://cdn.lambdatest.com/support/docs/wp-content/uploads/2019/08/npm-testcafe-integration.jpg)
 
-### Testcafe is a node.js tool to automate  end-to-end web testing .
+### Testcafe is a node.js tool to automate  end-to-end web testing.
 
 Interesting part is that we don’t need an external driver to run end-to-end tests in the browser. Instead, the page can run all the test scripts that emulate user actions. This would allow for true cross-browser and cross-platform tests that run on any device that has a modern browser.
 
